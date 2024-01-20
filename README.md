@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sakshi-Dappu
-- 👀 I’m interested in Web Development(frontend) 
-- 🌱 I’m currently learning Backend(Node.js)
+- 👀 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate on making new projects
 - 📫 How to reach me dappusakshi@gmail.com.
 
